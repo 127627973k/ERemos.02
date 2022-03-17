@@ -1,0 +1,52 @@
+@charset "utf-8";
+.主樣式 {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.主樣式 header h1 {
+    background-color: #7289C2;
+    border-radius: 12px 12px 0px 0px;
+    text-align: left;
+    padding-left: 167px;
+    padding-right: 37px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.主樣式 header {
+}
+.主樣式 header .頭至中 {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 268px;
+}
+
+
+header h2 a:link {
+    color: #9F900C;
+    text-decoration: none;
+    text-align: center;
+}
+header h2 a:hover  {
+    color: #744007;
+    text-decoration: underline;
+    text-align: center;
+    width: 500px;
+    background-color: #C7E7EC;
+}
+.主樣式 .附註 {
+    color: #AAAAAA;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+}
+main article .基礎中 {
+    margin-left: 182px;
+}
+.主樣式 main article {
+    background-color: #C7C7C7;
+    border-radius: 17px;
+    padding-left: 50px;
+    padding-top: 3px;
+}
